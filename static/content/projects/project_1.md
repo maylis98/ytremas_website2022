@@ -1,5 +1,5 @@
 ---
-title: Projet 1
+title: rucksucre
 date: 2021
 type: Video clip
 vignette: rucksucre/rucksucre_1.jpg

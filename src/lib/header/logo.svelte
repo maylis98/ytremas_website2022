@@ -2,6 +2,8 @@
     <defs>
         <style>
             #logo{
+                width:100%;
+                height:auto;
                 fill:#ccf000;
             }
     

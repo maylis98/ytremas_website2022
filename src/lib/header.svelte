@@ -45,9 +45,7 @@
   {/if}
   {/key}
 
-  <a href="/" class="absolute top-full z-10 mt-6">
-
+  <!-- <a href="/" class="absolute top-full z-10 mt-6">
   <Logo/>
-  
-  </a>
+  </a> -->
 </header>

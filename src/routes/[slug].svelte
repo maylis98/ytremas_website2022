@@ -21,8 +21,16 @@
 <script>
 export let project;
 import Carousel from "$lib/carousel/carousel.svelte";
+import Logo from "$lib/header/logo.svelte";
 import ImageContainer from "$lib/image_container.svelte";
 </script>
+
+<a href="/" class="absolute top-7 left-4 z-10 mt-6">
+  <div
+   style="width:150%; height:auto;">
+   <Logo/>
+  </div>
+</a>
 
 <div class="relative" style="height:50vh; max-width:100%;">
 

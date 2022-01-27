@@ -72,9 +72,11 @@
   .carousel-arrows{
     @apply absolute z-20 w-8 top-1/2 -translate-y-1/2;;
   }
+
   .carousel-arrows.left{
     @apply left-8;
   }
+
   .carousel-arrows.right{
     @apply right-8;
   }

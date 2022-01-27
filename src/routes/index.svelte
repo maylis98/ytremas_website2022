@@ -15,7 +15,16 @@
   export let projects_list;
   import ImageContainer from "$lib/image_container.svelte"
   import Carousel from "$lib/carousel/carousel.svelte"
+  import Logo from "$lib/header/logo.svelte";
+
 </script>
+
+<a href="/" class="absolute top-7 left-4 z-10 mt-6">
+  <div
+   style="width:250%; height:auto;">
+   <Logo/>
+  </div>
+</a>
 
 <Carousel>
 {#each projects_list as project}
