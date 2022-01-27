@@ -48,4 +48,10 @@
   -translate-x-1/2
   -translate-y-1/2;
 }
+
+.title-carousel:hover{
+  @apply
+  text-white
+}
+
 </style>

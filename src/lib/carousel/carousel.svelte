@@ -61,7 +61,9 @@
 
 <style lang="postcss">
   .carousel{
-    @apply relative w-full h-full overflow-y-hidden;
+    @apply relative 
+    w-full h-full 
+    overflow-y-hidden;
     scrollbar-width: none;
   }
   .c-wrap{
@@ -76,4 +78,9 @@
   .carousel-arrows.right{
     @apply right-8;
   }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
 </style>

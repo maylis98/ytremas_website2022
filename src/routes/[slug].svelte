@@ -41,18 +41,20 @@ import ImageContainer from "$lib/image_container.svelte";
 
 </div>
 
-<aside class="p-4 font-roboto">
+<aside class="p-4">
   <div class="grid grid-flow-col gap-4">
     <div>
-      <h1 class="text-4xl mb-4">
+      <h1 class="text-4xl mb-4 font-sneakers">
       {project.title}
       </h1>
+      <div class="font-roboto">
       {@html project.body}
+    </div>
     </div>
 
     <ul>
       {#each project.fields as field}
-      <li>{field}</li>
+      <li class="font-roboto">{field}</li>
       {/each}
     </ul>
   </div>

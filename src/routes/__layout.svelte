@@ -11,7 +11,7 @@
 <div class="root-wrap">
 	<Header/>
 	
-	<main class="bg-y_yellow">
+	<main class="bg-y_yellow cursor-crosshair">
 		<slot></slot>
 	</main>
 

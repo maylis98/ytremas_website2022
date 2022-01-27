@@ -33,7 +33,10 @@
   }
 
   img{
-    @apply block w-full transition ease-in duration-300;
+    @apply block 
+    w-full 
+    transition ease-in duration-300;
+    border-radius: 2.5rem;
   }
   img.hide{
     @apply opacity-0;

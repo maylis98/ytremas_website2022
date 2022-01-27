@@ -1,7 +1,7 @@
 <footer class="
   flex
   justify-between
-  p-4 bg-black
+  px-4 py-1 bg-black
   text-white
   uppercase
   font-roboto
