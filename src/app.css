@@ -1,0 +1,26 @@
+/* Write your global styles here, in PostCSS syntax */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  @font-face{
+    font-family:"sneakers-pro";
+    font-weight:400;
+    src:local('sneakers-pro'),
+    url('/static/fonts/sneakers-pro-medium.woff') format('woff');
+  }
+}
+
+html,body,#svelte{
+  @apply h-full;
+}
+
+.root-wrap{
+  width:100%;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
