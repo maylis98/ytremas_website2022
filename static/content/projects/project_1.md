@@ -7,15 +7,24 @@ carousel:
   - rucksucre/rucksucre_2.jpg
   - rucksucre/rucksucre_3.jpg
   - rucksucre/rucksucre_4.jpg
+  - rucksucre/rucksucre_5.jpg
+  - rucksucre/rucksucre_6.jpg
+  - rucksucre/rucksucre_7.jpg
+  - rucksucre/rucksucre_8.jpg
+  - rucksucre/rucksucre_9.jpg
+  - rucksucre/rucksucre_10.jpg
+  - rucksucre/rucksucre_11.jpg
+  - rucksucre/rucksucre_12.jpg
+  - rucksucre/rucksucre_13.jpg
 fields:
-  - Field 1
-  - Field 2
-  - Field 3
+  - Virtual production
+  - CGI
+  - Storytelling
 package:
-  - Blablabla
+  - For the Swiss music band 'Tout Bleu'
 content:
-  - Line 1
-  - Line 2
-  - Line 3
+  - Pointclouds landscape
+  - Photogrammetry
+  - SFX
 ---
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi turpis odio, volutpat in ligula at, vehicula sagittis lectus. Maecenas vitae urna pharetra, tincidunt enim nec, imperdiet lorem. Curabitur a nisi ultrices, malesuada nisi eget, pharetra libero. Duis sit amet risus eu magna facilisis congue. Integer ac porta lacus. Aliquam scelerisque massa tellus, sit amet consequat arcu viverra vel. Etiam ac sem tempor, faucibus orci nec, vulputate mauris. Sed facilisis tortor in dolor tincidunt scelerisque a at lacus. Nullam eget iaculis nibh, auctor dapibus sem. Suspendisse in orci in arcu interdum bibendum ut sed massa. Sed at eleifend nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent ullamcorper ipsum sed dictum gravida.
+ Bidule is a video clip based on the music band ToutBleu. It highlights the fluid yet rigourous style of the band

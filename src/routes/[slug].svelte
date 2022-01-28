@@ -21,11 +21,13 @@
 <script>
 export let project;
 import Carousel from "$lib/carousel/carousel.svelte";
+import AboutToggle from "$lib/header/about_toggle.svelte";
+import ContactToggle from "$lib/header/contact_toggle.svelte";
 import Logo from "$lib/header/logo.svelte";
 import ImageContainer from "$lib/image_container.svelte";
 </script>
 
-<a href="/" class="absolute top-7 left-4 z-10 mt-6">
+<a href="/" class="absolute top-5 left-4 z-10 mt-6">
   <div
    style="width:150%; height:auto;">
    <Logo/>
@@ -41,8 +43,14 @@ import ImageContainer from "$lib/image_container.svelte";
         aspect-ratio: {c.width} / {c.height};
         height:100%; width:auto;">
 
+        <!-- {#if c.type == "image"} -->
         <ImageContainer {...c} />
-        
+        <!-- {/if} -->
+        <!-- {#if c.type == "video"}
+          TO DO -----------------------------------
+        <VideoContainer {...c}/>
+        {/if} -->
+
       </div>
     {/each}
   </Carousel>

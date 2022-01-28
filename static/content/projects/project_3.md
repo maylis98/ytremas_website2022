@@ -1,21 +1,26 @@
 ---
-title: Projet 2
+title: Highway
 date: 2021
-type: Video clip
+type: Video game
 vignette: highway/highway_1.jpg
 carousel:
   - highway/highway_2.jpg
   - highway/highway_3.jpg
   - highway/highway_4.jpg
+  - highway/highway_5.jpg
+  - highway/highway_6.jpg
+  - highway/highway_7.jpg
+  - highway/highway_8.jpg
+  - highway/highway_9.jpg
 fields:
-  - Field 1
-  - Field 2
-  - Field 3
+  - Game design in VR
+  - UX/UI & Sound design
+  - Storytelling
 package:
-  - Blablabla
+  - Festival La ville de demain - EXPLORE 
 content:
-  - Line 1
-  - Line 2
-  - Line 3
+  - Puzzle game
+  - 3D models
+  - User Interface
 ---
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi turpis odio, volutpat in ligula at, vehicula sagittis lectus. Maecenas vitae urna pharetra, tincidunt enim nec, imperdiet lorem. Curabitur a nisi ultrices, malesuada nisi eget, pharetra libero. Duis sit amet risus eu magna facilisis congue. Integer ac porta lacus. Aliquam scelerisque massa tellus, sit amet consequat arcu viverra vel. Etiam ac sem tempor, faucibus orci nec, vulputate mauris. Sed facilisis tortor in dolor tincidunt scelerisque a at lacus. Nullam eget iaculis nibh, auctor dapibus sem. Suspendisse in orci in arcu interdum bibendum ut sed massa. Sed at eleifend nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent ullamcorper ipsum sed dictum gravida.
+HighWay compare how the height of your cities condition our feeling of power.

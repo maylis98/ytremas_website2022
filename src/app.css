@@ -24,3 +24,20 @@ html,body,#svelte{
   display: grid;
   grid-template-rows: auto 1fr auto;
 }
+
+.p1{
+  @apply
+  text-base
+  tracking-wide
+}
+
+strong{
+  @apply
+  text-y_yellow
+  uppercase
+}
+
+em{
+  @apply
+  text-slate-500
+}
