@@ -17,7 +17,7 @@ fields:
   - Storytelling
 package:
   - For The distortion festival AS ABOVE, so below
-content:
+contents:
   - 3D illustrations
   - Posters
   - Gifs & Looping animations

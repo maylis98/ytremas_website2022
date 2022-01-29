@@ -41,3 +41,26 @@ em{
   @apply
   text-slate-500
 }
+
+/* Largeur */
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Fond */
+::-webkit-scrollbar-track {
+  @apply
+  bg-black
+}
+ 
+/* Poignée scroll */
+::-webkit-scrollbar-thumb {
+  @apply
+  bg-slate-500 
+  rounded-md
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply
+  bg-y_yellow
+}

@@ -48,7 +48,7 @@
   text-y_yellow
   font-sneakers
   uppercase
-  text-5xl
+  text-4xl
   text-center
   tracking-wide
   absolute
@@ -61,8 +61,8 @@
 
 .title-carousel:hover{
   @apply
-  text-white
-  /* -webkit-text-stroke: 1px black; */
+  text-white;
+  -webkit-text-stroke: 1.5px black;
 }
 
 </style>

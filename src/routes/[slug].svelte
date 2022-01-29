@@ -34,7 +34,7 @@ import ImageContainer from "$lib/image_container.svelte";
   </div>
 </a>
 
-<div class="relative" style="height:50vh; max-width:100%;">
+<div class="relative" style="height:69vh; max-width:100%;">
 
   <Carousel>
     {#each project.carousel as c}
@@ -57,20 +57,29 @@ import ImageContainer from "$lib/image_container.svelte";
 
 </div>
 
-<aside class="p-4">
+<aside class="p-4 pt-6">
   <div class="grid grid-flow-col gap-4">
-    <div>
-      <h1 class="text-4xl mb-4 font-sneakers">
+    <div class="text-lg">
+      <h1 class="text-4xl mb-4 uppercase font-sneakers leading-4">
       {project.title}
       </h1>
-      <div class="font-roboto">
+      <p class="text-slate-500">{project.type}</p>
+      <p class="uppercase">{project.package}</p>
+      <p class="text-slate-500">{project.date}</p>
+
+      <div class="pt-4 font-roboto">
       {@html project.body}
-    </div>
-    </div>
+      </div>
+  </div>
 
     <ul>
       {#each project.fields as field}
-      <li class="font-roboto">{field}</li>
+      <li class="font-roboto uppercase bold">{field}</li>
+      {/each}
+      <br>
+      <li class="uppercase text-slate-500 text-sm">Contents</li>
+      {#each project.contents as content}
+      <li class="font-roboto">{content}</li>
       {/each}
     </ul>
   </div>

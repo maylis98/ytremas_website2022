@@ -70,15 +70,15 @@
     @apply absolute flex h-full w-full;
   }
   .carousel-arrows{
-    @apply absolute z-20 w-8 top-1/2 -translate-y-1/2;;
+    @apply absolute z-20 w-6 top-1/2 -translate-y-1/2;
   }
 
   .carousel-arrows.left{
-    @apply left-8;
+    @apply left-6;
   }
 
   .carousel-arrows.right{
-    @apply right-8;
+    @apply right-6;
   }
 
   ::-webkit-scrollbar {

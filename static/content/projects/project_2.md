@@ -28,7 +28,7 @@ fields:
   - Space design
 package:
   - Numerik Games Festival 2021
-content:
+contents:
   - VR game
   - Virtual spatial sounds & light
   - Floor scenography (stickers)

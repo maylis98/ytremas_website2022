@@ -18,7 +18,7 @@ fields:
   - Community management
 package:
   - For @the_culturemaze | Films & books recommendations Promotion of inspiring women 
-content:
+contents:
   - Posts / Storys
   - Graphic charter & Logo
   - Gifs & Looping animations

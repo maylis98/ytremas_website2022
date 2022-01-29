@@ -18,7 +18,7 @@ fields:
   - Storytelling
 package:
   - Festival La ville de demain - EXPLORE 
-content:
+contents:
   - Puzzle game
   - 3D models
   - User Interface

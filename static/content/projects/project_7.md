@@ -17,7 +17,7 @@ fields:
 package:
   - Shown at the International Biennial of graphic design 2021 (chaumont) student competition
 
-content:
+contents:
   - Generative content (basil.js)
   - Data from submarinecablemap.com by TeleGeography
 ---

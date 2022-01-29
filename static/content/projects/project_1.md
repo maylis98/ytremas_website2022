@@ -22,7 +22,7 @@ fields:
   - Storytelling
 package:
   - For the Swiss music band 'Tout Bleu'
-content:
+contents:
   - Pointclouds landscape
   - Photogrammetry
   - SFX

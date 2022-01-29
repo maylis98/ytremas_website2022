@@ -21,11 +21,12 @@
   flex
   justify-between
   px-4 py-1 bg-black
-  text-white
+  text-sm
+  text-slate-500
   uppercase
   font-roboto
   ">
-  <p>All rights reserved</p>
+  <p> ©all rights reserved</p>
   <p class="hover:text-y_yellow" on:pointerenter={()=>{p_enter("credits")}} on:pointerout={p_leave}>
     Last update 29/01/2022
   </p>
@@ -33,8 +34,24 @@
 
 {#key current}
 {#if current != undefined}
-  <aside transition:slide class="absolute z-30 bottom-8 bg-black w-full p-4 rounded-t-3xl text-slate-500 text-right">
+  <aside transition:slide class="credits">
     <svelte:component this={toggles[current]}/>
   </aside>
 {/if}
 {/key}
+
+<style lang="postcss">
+
+  .credits{
+    @apply
+    fixed 
+    z-30 
+    bg-black 
+    w-full 
+    p-4 
+    rounded-t-3xl 
+    text-slate-500 
+    text-right;
+    bottom:4%;
+  }
+</style>

@@ -16,7 +16,7 @@ fields:
   - Creative coding
 package:
   - Interactive poem
-content:
+contents:
   - Interconnected screens (websockets)
   - Generative animations (p5.js)
 ---
