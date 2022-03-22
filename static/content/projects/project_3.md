@@ -23,4 +23,4 @@ contents:
   - 3D models
   - User Interface
 ---
-HighWay compare how the height of your cities condition our feeling of power.
+What if ambition was linked to where we lived during our lives? What does it say about us to live in a tower, high up, overlooking the streets? This puzzle game is inspired by these questions to project the player in a virtual city in which he must make his way to the highest building.

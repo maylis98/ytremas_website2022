@@ -20,4 +20,4 @@ contents:
   - Interconnected screens (websockets)
   - Generative animations (p5.js)
 ---
-ADD description !!!!
+Our digital devices are flat worlds. They flatten light and volumes. They force us to remain static in front of our screens and frame our vision. This installation considers the screens as windows on an infinite dimension, rather than restricted fields of vision. The 3 screens display the same animations, each one from a different point of view (side, front, top). A 4th screen unfolds the monologue of a solitary character, whose thoughts are imaged by the animations.

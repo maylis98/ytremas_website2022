@@ -27,4 +27,4 @@ contents:
   - Photogrammetry
   - SFX
 ---
- Bidule is a video clip based on the music band ToutBleu. It highlights the fluid yet rigourous style of the band
+'Tout Bleu' looks for sounds that travel and make travel. The result is a dark, bewitching, tense, but also soft music. Captured by photogrammetryhe, the cliffs and forests of the South of France support here their sounds, between noise, experimental ambient and purified incantatory trance.

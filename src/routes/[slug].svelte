@@ -57,14 +57,14 @@ import ImageContainer from "$lib/image_container.svelte";
 
 </div>
 
-<aside class="p-4 pt-6">
+<aside class="p-4 pt-6 font-roboto">
   <div class="grid grid-flow-col gap-4">
     <div class="text-lg">
       <h1 class="text-4xl mb-4 uppercase font-sneakers leading-4">
       {project.title}
       </h1>
       <p class="text-slate-500">{project.type}</p>
-      <p class="uppercase">{project.package}</p>
+      <p class="uppercase font-bold">{project.package}</p>
       <p class="text-slate-500">{project.date}</p>
 
       <div class="pt-4 font-roboto">
@@ -74,12 +74,12 @@ import ImageContainer from "$lib/image_container.svelte";
 
     <ul>
       {#each project.fields as field}
-      <li class="font-roboto uppercase bold">{field}</li>
+      <li class="font-bold uppercase">{field}</li>
       {/each}
       <br>
       <li class="uppercase text-slate-500 text-sm">Contents</li>
       {#each project.contents as content}
-      <li class="font-roboto">{content}</li>
+      <li>{content}</li>
       {/each}
     </ul>
   </div>

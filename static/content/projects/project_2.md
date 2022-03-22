@@ -36,4 +36,5 @@ contents:
   - Flyers
   - Voice-Over
 ---
- Blind Rumors aims at understand how multiple comments create a fact by sprading the information.
+Dive into the darkness and discover a mysterious meteor, through the testimonies of those who saw it fall ! 
+The project is an immersive light and sound experience to visualize & simulates the way a rumor spreads and shapes an event: the more an event is relayed by various comments, the more it appears true. Here, the audio comments come from the American Meteor Society's database.
